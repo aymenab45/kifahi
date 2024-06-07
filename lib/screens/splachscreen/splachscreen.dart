@@ -1,8 +1,6 @@
 import 'dart:async';
-import 'dart:ffi';
 
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:kifah/screens/main_screen.dart';
 import 'package:kifah/screens/onboarding_screens/on_boarding_screen/onboardingscreen.dart';
 import 'package:page_transition/page_transition.dart';
